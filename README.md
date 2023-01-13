@@ -31,7 +31,35 @@
 
 #### Software requirements
 
+##### OS Requirements
 
+This tool is supported for Windows and Linux. The tool has been tested on the following systems:
+
+- Windows: 11
+- Linux: 
+
+##### Python Dependencies
+
+`ExtraCellTalk` mainly depends on the Python scientific stack.
+
+```python
+numpy
+pandas
+pyarrow
+matplotlib
+statsmodels
+rpy2
+```
+
+##### R Dependencies
+
+The implementation of `SankeyPlot` function needs to call R in Python and depends on the following R packages.
+
+```
+ggplot2
+ggalluvial
+RColorBrewer
+```
 
 ## Installation Guide
 
