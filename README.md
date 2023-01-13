@@ -6,9 +6,9 @@
 ## Contents
 
 - [Overview](#Overview)
-- [Repo Contents](#Repo Contents)
-- [System Requirements](#System Requirements)
-- [Installation Guide](#Installation Guide)
+- [Repo Contents](#Repo+Contents)
+- [System Requirements](#System+Requirements)
+- [Installation Guide](#Installation+Guide)
 - [Demo](#Demo)
 - [License](#License)
 - [Citation](#Citation)
